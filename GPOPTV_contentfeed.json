@@ -3,9 +3,9 @@
 	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"Movies": [
+	"Featured": [
 	{
-			"longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"longDescription": "Description of movie/ show",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -16,7 +16,7 @@
 			],
 			"id": "shortform-roku-streaming-overview",
 			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"title": "Streaming overview",
+			"title": "Movie/ TV show title",
 			"content": {
 				"duration": 100,
 				"videos": [{
@@ -113,10 +113,10 @@
 		}
 	],
 	"series": [{
-			"id": "series_1_tips",
-			"title": "Roku Tips & Tricks",
+			"id": "series_1",
+			"title": "TV SHOW",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Videos highlighting Roku products and features",
+			"shortDescription": "Tv show about...",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/tips-tricks.jpg",
 			"genres": [
 				"educational"
@@ -657,8 +657,8 @@
 			]
 		}
 	],
-	"movies": [{
-			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
+	"Movies": [{
+			"longDescription": "hello",
 			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
@@ -669,7 +669,7 @@
 			],
 			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
 			"shortDescription": "Demonstrates the Roku Remote Debugger",
-			"title": "BrightScript debug protocol",
+			"title": "TV Title",
 			"content": {
 				"duration": 713,
 				"videos": [{
