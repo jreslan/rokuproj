@@ -3,7 +3,7 @@
 	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"Featured": [
+	"Series": [
 	{
 			"longDescription": "Description of movie/ show",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
@@ -112,7 +112,7 @@
 			}
 		}
 	],
-	"series": [{
+	"Featured": [{
 			"id": "series_1",
 			"title": "TV SHOW",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
